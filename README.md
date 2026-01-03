@@ -3,7 +3,7 @@ This is a beginner training days project which anaylyses pre-made code and solve
 
 ## What it does
 - This project tells the user what event they signed up for and how long they have to train for it in days.
-- The project is set to randomly choose a marathon type and how many days they will have.
+- The project is set to randomly choose a marathon type and how many days they will have to train per user.
    
 ## Tech used
 - JavaScript.
